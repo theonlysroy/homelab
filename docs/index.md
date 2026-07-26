@@ -28,6 +28,6 @@ See [decisions.md](decisions.md)
 
 ## Troubleshooting log
 
-See [troubleshooting.md)[troubleshooting.md)
+See [troubleshooting.md](troubleshooting.md)
 
 
