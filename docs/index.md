@@ -30,4 +30,6 @@ See [decisions.md](decisions.md)
 
 See [troubleshooting.md](troubleshooting.md)
 
+### Steps followed to setup the server
 
+Followed these steps [server-setup.md](server-setup.md) to configure the server on a laptop.
