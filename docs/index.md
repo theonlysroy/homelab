@@ -4,6 +4,10 @@
 
 A self-hosted Debian server running on an old laptop, hardened from the ground up, built to learn and demonstrate real deployments, infrastructure and devops concepts.
 
+## Server snapshot
+
+![Server overview](../assets/server-preview.png)
+
 ## Components
 
 - **Debian 13 (Trixie)** - Server Installation
