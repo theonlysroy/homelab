@@ -6,7 +6,7 @@ A self-hosted Debian server running on an old laptop, hardened from the ground u
 
 ## Server snapshot
 
-![Server overview](../assets/server-preview.png)
+![Server overview](assets/server-preview.png)
 
 ## Components
 
