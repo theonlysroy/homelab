@@ -1,0 +1,13 @@
+server {
+	listen 80;
+	listen [::]:80;
+
+	root /var/www/one.debianserver.local/html;
+	index index.html;
+
+	server_name one.debianserver.local;
+
+	location / {
+		try_files $uri $uri/ /index.html =404;
+	}
+}
