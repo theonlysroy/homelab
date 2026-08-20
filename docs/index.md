@@ -30,6 +30,10 @@ A self-hosted Debian server running on an old laptop, hardened from the ground u
 
 See [decisions.md](decisions.md)
 
+## Practice sessions
+
+- [Nginx virtual subdomain](nginx-subdomain-practice.md) - local hostname mapping, a dedicated web root, and favicon routing.
+
 ## Troubleshooting log
 
 See [troubleshooting.md](troubleshooting.md)
