@@ -2,7 +2,8 @@
 
 > Since this server is setup on a Laptop, there will be some additional steps to follow.
 
-## Phase - 1
+
+## Phase 1
 
 ### 1. Installation
 
@@ -10,6 +11,7 @@
 - On *Software Installation* section of the installer (very last step), we need to check only **standard system utilities** to install the OS without any *Debian Desktop Environment* and *DE Task (Gnome, Mate, etc.)*
 - Set *root* user password and a *non root user* as instructed
 - Complete the installation
+- Extra settings for laptop [Installation steps](extra-configs.md)
 
 ### 2. System update
 
@@ -19,7 +21,7 @@
 apt update && apt upgrade -y
 ```
 
-### 3. Network Manager setup (optional)
+### 3. Network Manager setup
 
 > To use WiFi we need to follow these steps.
 
@@ -123,7 +125,7 @@ Debian by default restricts `root` user login with only password over ssh. So th
 
 ---
 
-## Phase - 2
+## Phase 2
 
 ### 6. Setup non-root user, *if skipped in last step*
 
@@ -379,4 +381,3 @@ sudo apt install vim curl htop fastfetch -y
     sudo fail2ban-client status sshd
     ```
 ---
-
